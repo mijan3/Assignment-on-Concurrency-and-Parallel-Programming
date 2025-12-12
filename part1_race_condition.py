@@ -1,6 +1,4 @@
-
-# Part 1: Race Condition and Basic Synchronization
-
+#Mijanur Rahman- 2212342642
 import threading
 import time
 
